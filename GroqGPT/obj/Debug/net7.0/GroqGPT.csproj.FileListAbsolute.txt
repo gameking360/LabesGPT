@@ -1,0 +1,14 @@
+D:\GroqGPT\GroqGPT\GroqGPT\bin\Debug\net7.0\GroqGPT.exe
+D:\GroqGPT\GroqGPT\GroqGPT\bin\Debug\net7.0\GroqGPT.deps.json
+D:\GroqGPT\GroqGPT\GroqGPT\bin\Debug\net7.0\GroqGPT.runtimeconfig.json
+D:\GroqGPT\GroqGPT\GroqGPT\bin\Debug\net7.0\GroqGPT.dll
+D:\GroqGPT\GroqGPT\GroqGPT\bin\Debug\net7.0\GroqGPT.pdb
+D:\GroqGPT\GroqGPT\GroqGPT\obj\Debug\net7.0\GroqGPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\GroqGPT\GroqGPT\GroqGPT\obj\Debug\net7.0\GroqGPT.AssemblyInfoInputs.cache
+D:\GroqGPT\GroqGPT\GroqGPT\obj\Debug\net7.0\GroqGPT.AssemblyInfo.cs
+D:\GroqGPT\GroqGPT\GroqGPT\obj\Debug\net7.0\GroqGPT.csproj.CoreCompileInputs.cache
+D:\GroqGPT\GroqGPT\GroqGPT\obj\Debug\net7.0\GroqGPT.dll
+D:\GroqGPT\GroqGPT\GroqGPT\obj\Debug\net7.0\refint\GroqGPT.dll
+D:\GroqGPT\GroqGPT\GroqGPT\obj\Debug\net7.0\GroqGPT.pdb
+D:\GroqGPT\GroqGPT\GroqGPT\obj\Debug\net7.0\GroqGPT.genruntimeconfig.cache
+D:\GroqGPT\GroqGPT\GroqGPT\obj\Debug\net7.0\ref\GroqGPT.dll

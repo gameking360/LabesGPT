@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GroqGPT\\GroqGPT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D73BB8B-BCAB-4E55-9C1F-345377FDBD8B}|GroqGPT\\GroqGPT.csproj|d:\\groqgpt\\groqgpt\\groqgpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D73BB8B-BCAB-4E55-9C1F-345377FDBD8B}|GroqGPT\\GroqGPT.csproj|solutionrelative:groqgpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D73BB8B-BCAB-4E55-9C1F-345377FDBD8B}|GroqGPT\\GroqGPT.csproj|d:\\groqgpt\\groqgpt\\groqgpt\\models\\groq\\groqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D73BB8B-BCAB-4E55-9C1F-345377FDBD8B}|GroqGPT\\GroqGPT.csproj|solutionrelative:groqgpt\\models\\groq\\groqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D73BB8B-BCAB-4E55-9C1F-345377FDBD8B}|GroqGPT\\GroqGPT.csproj|d:\\groqgpt\\groqgpt\\groqgpt\\models\\message\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D73BB8B-BCAB-4E55-9C1F-345377FDBD8B}|GroqGPT\\GroqGPT.csproj|solutionrelative:groqgpt\\models\\message\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D73BB8B-BCAB-4E55-9C1F-345377FDBD8B}|GroqGPT\\GroqGPT.csproj|d:\\groqgpt\\groqgpt\\groqgpt\\models\\groq\\groqresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D73BB8B-BCAB-4E55-9C1F-345377FDBD8B}|GroqGPT\\GroqGPT.csproj|solutionrelative:groqgpt\\models\\groq\\groqresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D73BB8B-BCAB-4E55-9C1F-345377FDBD8B}|GroqGPT\\GroqGPT.csproj|d:\\groqgpt\\groqgpt\\groqgpt\\models\\groq\\groqrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D73BB8B-BCAB-4E55-9C1F-345377FDBD8B}|GroqGPT\\GroqGPT.csproj|solutionrelative:groqgpt\\models\\groq\\groqrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D73BB8B-BCAB-4E55-9C1F-345377FDBD8B}|GroqGPT\\GroqGPT.csproj|d:\\groqgpt\\groqgpt\\groqgpt\\models\\message\\messagerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D73BB8B-BCAB-4E55-9C1F-345377FDBD8B}|GroqGPT\\GroqGPT.csproj|solutionrelative:groqgpt\\models\\message\\messagerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroqRequest.cs",
+              "DocumentMoniker": "D:\\GroqGPT\\GroqGPT\\GroqGPT\\Models\\Groq\\GroqRequest.cs",
+              "RelativeDocumentMoniker": "GroqGPT\\Models\\Groq\\GroqRequest.cs",
+              "ToolTip": "D:\\GroqGPT\\GroqGPT\\GroqGPT\\Models\\Groq\\GroqRequest.cs",
+              "RelativeToolTip": "GroqGPT\\Models\\Groq\\GroqRequest.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwEQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:01:50.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageRole.cs",
+              "DocumentMoniker": "D:\\GroqGPT\\GroqGPT\\GroqGPT\\Models\\Message\\MessageRole.cs",
+              "RelativeDocumentMoniker": "GroqGPT\\Models\\Message\\MessageRole.cs",
+              "ToolTip": "D:\\GroqGPT\\GroqGPT\\GroqGPT\\Models\\Message\\MessageRole.cs",
+              "RelativeToolTip": "GroqGPT\\Models\\Message\\MessageRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAewA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:08:54.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroqResponse.cs",
+              "DocumentMoniker": "D:\\GroqGPT\\GroqGPT\\GroqGPT\\Models\\Groq\\GroqResponse.cs",
+              "RelativeDocumentMoniker": "GroqGPT\\Models\\Groq\\GroqResponse.cs",
+              "ToolTip": "D:\\GroqGPT\\GroqGPT\\GroqGPT\\Models\\Groq\\GroqResponse.cs",
+              "RelativeToolTip": "GroqGPT\\Models\\Groq\\GroqResponse.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:42:17.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageModel.cs",
+              "DocumentMoniker": "D:\\GroqGPT\\GroqGPT\\GroqGPT\\Models\\Message\\MessageModel.cs",
+              "RelativeDocumentMoniker": "GroqGPT\\Models\\Message\\MessageModel.cs",
+              "ToolTip": "D:\\GroqGPT\\GroqGPT\\GroqGPT\\Models\\Message\\MessageModel.cs",
+              "RelativeToolTip": "GroqGPT\\Models\\Message\\MessageModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:37:52.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroqClient.cs",
+              "DocumentMoniker": "D:\\GroqGPT\\GroqGPT\\GroqGPT\\Models\\Groq\\GroqClient.cs",
+              "RelativeDocumentMoniker": "GroqGPT\\Models\\Groq\\GroqClient.cs",
+              "ToolTip": "D:\\GroqGPT\\GroqGPT\\GroqGPT\\Models\\Groq\\GroqClient.cs",
+              "RelativeToolTip": "GroqGPT\\Models\\Groq\\GroqClient.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAwFwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:39:45.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GroqGPT\\GroqGPT\\GroqGPT\\Program.cs",
+              "RelativeDocumentMoniker": "GroqGPT\\Program.cs",
+              "ToolTip": "D:\\GroqGPT\\GroqGPT\\GroqGPT\\Program.cs",
+              "RelativeToolTip": "GroqGPT\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAwEwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:31:33.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
