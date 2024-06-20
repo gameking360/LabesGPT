@@ -25,13 +25,13 @@ namespace GroqGPT.Models.Groq
         private int MaxToxens;
         private bool Stream;
         private string Stop;
-
+        private List<MessageModel> historico;
 
         public GroqClient(string model, HttpClient? client = null)
         {
           
             Model = model;
-
+            historico = new List<MessageModel>();
             httpClient = client ?? new HttpClient();
             httpClient.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue(BearerToken, Environment.GetEnvironmentVariable("GROQ_API_KEY"));
         }
@@ -61,25 +61,33 @@ namespace GroqGPT.Models.Groq
             return this;
         }
 
-        public async Task<GroqResponse> SendMessage(params MessageModel[] mensagem)
+        public async Task<GroqResponse> SendMessage(MessageModel mensagem)
         {
-            if(mensagem == null || mensagem.Length == 0)
+            if(mensagem == null || mensagem.Content.Length == 0)
             {
                 throw new ArgumentException("Mensagem can't be null or empty");
 
             }
 
-           GroqRequest requests = new GroqRequest
+            GroqRequest requests = new GroqRequest
 
-              {
-                    MaxTokens = this.MaxToxens,
-                    Model = this.Model,
-                    Stop = this.Stop,
-                    TopP = this.TopP,
-                    Temperature = this.Temperature,
-                    Message = mensagem
+                {
+                MaxTokens = this.MaxToxens,
+                Model = this.Model,
+                Stop = this.Stop,
+                TopP = this.TopP,
+                Temperature = this.Temperature,
+                Message = new List<MessageModel>()
                 };
+
+                foreach(MessageModel m in historico)
+            {
+                requests.Message.Add(m);
+            }
+
+            requests.Message.Add(mensagem);
             
+            historico.Add(mensagem);
 
             
 

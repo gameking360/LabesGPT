@@ -20,7 +20,7 @@ namespace GroqGPT.Models.Groq
         public double? Temperature { get; init; }
 
         [JsonPropertyName("messages")]
-        public MessageModel[] Message { get; init; }
+        public List<MessageModel> Message { get; init; }
 
         [JsonPropertyName("max_tokens")]
         public int? MaxTokens { get; init; }
